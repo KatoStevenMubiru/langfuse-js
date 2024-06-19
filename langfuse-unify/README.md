@@ -44,7 +44,8 @@ Set up your environment variables in .env, then run the application using:
 
 bash
 Copy code
-```npm start
+```
+npm start
 ```
 This setup provides a solid foundation for robust API interaction logging and tracing with UnifyAI and Langfuse. Adjust configurations as needed for your specific environment.
 >>>>>>> Stashed changes

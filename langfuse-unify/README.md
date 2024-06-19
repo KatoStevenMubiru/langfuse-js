@@ -1,5 +1,3 @@
-<<<<<<< Updated upstream
-=======
 ## README for UnifyAI and Langfuse Integration
 
 Overview
@@ -48,4 +46,3 @@ Copy code
 npm start
 ```
 This setup provides a solid foundation for robust API interaction logging and tracing with UnifyAI and Langfuse. Adjust configurations as needed for your specific environment.
->>>>>>> Stashed changes

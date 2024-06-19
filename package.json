@@ -83,5 +83,9 @@
   },
   "lint-staged": {
     "*.{ts,js,css,scss}": "prettier --write"
+  },
+  "dependencies": {
+    "langfuse": "file:langfuse",
+    "langfuse-node": "file:langfuse-node"
   }
 }

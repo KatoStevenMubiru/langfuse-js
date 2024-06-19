@@ -1,0 +1,15 @@
+{
+    "name": "unifyai-langfuse-integration",
+    "version": "1.0.0",
+    "description": "Integration of UnifyAI with Langfuse for logging and tracing API interactions.",
+    "type": "module",
+    "main": "src/index.js",
+    "scripts": {
+      "start": "node src/index.js"
+    },
+    "dependencies": {
+      "axios": "^0.21.1",
+      "dotenv": "^10.0.0",
+      "langfuse": "^1.0.0"
+    }
+  }
